@@ -1,0 +1,9 @@
+plotnine
+scipy
+pandas
+numpy
+matplotlib
+seaborn
+scipy
+sklearn
+statsmetrics
